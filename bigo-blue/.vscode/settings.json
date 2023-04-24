@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "iosfwd": "cpp",
+    "__split_buffer": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "unordered_map": "cpp",
+    "stack": "cpp",
+    "iostream": "cpp",
+    "queue": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
